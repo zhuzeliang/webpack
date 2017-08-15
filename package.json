@@ -1,0 +1,25 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "a.js",
+  "dependencies": {},
+  "devDependencies": {
+    "file-loader": "^0.11.2",
+    "serve": "^6.0.2",
+    "webpack-dev-server": "^2.5.1"
+  },
+  "scripts": {
+    "dev": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzl1991/webpack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzl1991/webpack/issues"
+  },
+  "homepage": "https://github.com/zzl1991/webpack#readme"
+}
